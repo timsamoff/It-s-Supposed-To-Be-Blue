@@ -74,6 +74,7 @@ public class Blue : MonoBehaviour
         score = (int)Math.Ceiling(alfa * 125);
 
         score = (int)Mathf.Clamp(score, 0, float.MaxValue);
+        alfa = Mathf.Clamp(alfa, 0, float.MaxValue);
 
         scoreOutput.text = score.ToString() + " %";
     }
