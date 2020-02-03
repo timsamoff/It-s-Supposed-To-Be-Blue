@@ -35,21 +35,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9676}
+      Script: {instanceID: 9696}
     - Class: 114
-      Script: {instanceID: 9766}
+      Script: {instanceID: 9776}
     - Class: 114
       Script: {instanceID: 9826}
     - Class: 114
-      Script: {instanceID: 9866}
+      Script: {instanceID: 9864}
     - Class: 114
-      Script: {instanceID: 10234}
+      Script: {instanceID: 10196}
     - Class: 114
-      Script: {instanceID: 10570}
+      Script: {instanceID: 10474}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 10856}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11150}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -88,21 +88,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9676}
+      Script: {instanceID: 9696}
     - Class: 114
       Script: {instanceID: 9826}
     - Class: 114
-      Script: {instanceID: 9866}
+      Script: {instanceID: 9864}
     - Class: 114
-      Script: {instanceID: 10058}
+      Script: {instanceID: 10036}
     - Class: 114
-      Script: {instanceID: 10234}
+      Script: {instanceID: 10196}
     - Class: 114
-      Script: {instanceID: 10570}
+      Script: {instanceID: 10474}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 10856}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11150}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -141,17 +141,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9676}
+      Script: {instanceID: 9696}
     - Class: 114
       Script: {instanceID: 9826}
     - Class: 114
-      Script: {instanceID: 10234}
+      Script: {instanceID: 10196}
     - Class: 114
-      Script: {instanceID: 10444}
+      Script: {instanceID: 10370}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 10856}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11150}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -190,29 +190,29 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9676}
+      Script: {instanceID: 9696}
     - Class: 114
       Script: {instanceID: 9826}
     - Class: 114
-      Script: {instanceID: 9866}
+      Script: {instanceID: 9864}
     - Class: 114
-      Script: {instanceID: 10234}
+      Script: {instanceID: 10196}
     - Class: 114
-      Script: {instanceID: 10254}
+      Script: {instanceID: 10474}
     - Class: 114
-      Script: {instanceID: 10570}
+      Script: {instanceID: 10856}
     - Class: 114
-      Script: {instanceID: 10778}
+      Script: {instanceID: 11146}
     - Class: 114
-      Script: {instanceID: 10792}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 12236}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 12238}
     - Class: 114
-      Script: {instanceID: 11346}
+      Script: {instanceID: 12242}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 12244}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -579,4 +579,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/ItsSupposedToBeBlue.unity
   - Assets/Scenes/End.unity
   playerPath: "/Users/tsamoff/Documents/Unity Projects/It\u2019s Supposed To Be Blue/GameBuilds/It\u2019s
-    Supposed To Be Blue/It\u2019s Supposed To Be Blue.exe"
+    Supposed To Be Blue (Windows)/It\u2019s Supposed To Be Blue.exe"
