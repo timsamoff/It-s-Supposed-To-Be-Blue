@@ -8,7 +8,7 @@ Audio by Kendrick Haskins (knhaskinsmusic@gmail.com)
 
 Your world is broken. It’s supposed to be blue — the bluer the better. Unfortunately, time is running out, and the only way to repair what’s wrong is to click.
 
-Made with ❤ during Global Game Jam 2020 with the **GGJ20** diversifier.
+Made with ❤ during Global Game Jam 2020 with the **GGJ20** [diversifier](https://globalgamejam.org/2020/diversifiers).
 
 ## How To Play
 
