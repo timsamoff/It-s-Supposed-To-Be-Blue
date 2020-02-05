@@ -16,5 +16,4 @@ Made with ❤ during Global Game Jam 2020 with the **GGJ20** [diversifier](https
 2. Click on the “Download” button to download the Zip file.
 3. Unzip the file to your computer.
 4. Launch the executable.
-
-**Note: This game was developed on a Mac and the Windows build has some UI issues. When fixed, this message will disappear.**
+5. It’s supposed to be blue!
